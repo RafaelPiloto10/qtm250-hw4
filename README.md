@@ -20,6 +20,11 @@ We hypothesize that speech-to-text is less efficient for people who have accents
 - Hamlet2.wav:
   - Recorded with an Asian accent
 
+# Research
+
+Our analysis was conducted on a [Google Colab Notebook](https://colab.research.google.com/drive/1G0NeMCHBcn-Dxu-x2ykpy3ADjupKcC_F?usp=sharing).
+Pay close attention to "Action Required" warnings that indicate you may need to change a URI path or provide your authentication keys.
+
 # Results
 
 ![Percent of errors across non-native English speakers transcribed by speech-to-text transcript Google API ](https://i.imgur.com/5qxIyra.png)
