@@ -13,6 +13,10 @@ creation and management of custom resources.
 We are interested in the correctness of speech-to-text results for people with different backgrounds and accents in English.
 We hypothesize that speech-to-text is less efficient for people who have accents.
 
+To keep results consistent, we pulled our lines from the following [Hamlet Script](http://shakespeare.mit.edu/hamlet/full.html) which was extracted at random with a preference towards it's moderate size:
+
+> Good now, sit down, and tell me, he that knows, Why this same strict and most observant watch So nightly toils the subject of the land, And why such daily cast of brazen cannon, And foreign mart for implements of war; Why such impress of shipwrights, whose sore task Does not divide the Sunday from the week; What might be toward, that this sweaty haste Doth make the night joint-labourer with the day: Who is't that can inform me?
+
 - Hamlet1.wav:
   - Recorded with an Indian accent
 - Hamlet2.wav:
