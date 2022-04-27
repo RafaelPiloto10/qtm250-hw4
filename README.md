@@ -17,11 +17,11 @@ To keep results consistent, we pulled our lines from the following [Hamlet Scrip
 
 > Good now, sit down, and tell me, he that knows, Why this same strict and most observant watch So nightly toils the subject of the land, And why such daily cast of brazen cannon, And foreign mart for implements of war; Why such impress of shipwrights, whose sore task Does not divide the Sunday from the week; What might be toward, that this sweaty haste Doth make the night joint-labourer with the day: Who is't that can inform me?
 
-- Hamlet1.wav: Aman Kewalramani
+- Hamlet1.wav: Aman Kewalramani (Participant 1)
   - Recorded with an Indian accent
-- Hamlet2.wav: Alex Zheng
+- Hamlet2.wav: Alex Zheng (Participant 2)
   - Recorded with an Asian accent
-- Hamlet2.wav: Thalia Le
+- Hamlet2.wav: Thalia Le (Participant 3)
   - Recorded with an Asian accent
 
 # Research
